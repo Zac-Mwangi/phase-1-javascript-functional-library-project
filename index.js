@@ -108,7 +108,7 @@ function myKeys(collection) {
 
 let mk = {
   name: "Zack",
-  gender: "zm",
+  gender: "m",
 };
 
 function myValues(collection) {
